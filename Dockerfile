@@ -1,4 +1,3 @@
-# use the latest mysql version
 FROM larsklitzke/mysql-python3.5
 MAINTAINER Lars Klitzke <Lars.Klitzke@gmail.com>
 
