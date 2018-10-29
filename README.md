@@ -8,6 +8,8 @@ packages:
 * scipy
 * pandas
 * matplotlib
+* Pillow
+* PyYAML
 
 # Docker image
 The latest version of the image is hosted on [Dockerhub](https://hub.docker.com/r/larsklitzke/mysql-python3.5-scientific/). 
