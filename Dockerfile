@@ -11,4 +11,6 @@ RUN pip install --no-cache-dir -U\
     numpy\
     pandas\
     scipy\
-    matplotlib
+    matplotlib\
+    Pillow\
+    pyyaml
