@@ -6,6 +6,7 @@ packages:
 
 * numpy
 * scipy
+* numba
 * pandas
 * matplotlib
 * Pillow
