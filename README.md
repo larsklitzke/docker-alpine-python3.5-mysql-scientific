@@ -4,7 +4,7 @@ This project generates a Docker image based on Alpine with LLVM 7 and MySQL serv
 
 * numpy
 * scipy
-* numba
+* numba >=0.42.0
 * pandas
 * matplotlib
 * Pillow
