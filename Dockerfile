@@ -12,8 +12,8 @@ RUN pip install --no-cache-dir -U\
     numpy
 
 RUN pip install --no-cache-dir -U\
-    numba==0.42.0\
-    pandas\
+    numba>=0.42.0\
+    pandas>=0.24.0\
     scipy\
     matplotlib\
     Pillow\
