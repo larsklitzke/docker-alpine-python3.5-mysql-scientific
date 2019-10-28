@@ -17,7 +17,8 @@ RUN pip install --no-cache-dir -U\
 
 RUN pip install --no-cache-dir -U\
     pandas\
-    scipy
+    scipy\
+    scikit-learn
 
 RUN pip install --no-cache-dir -U\
     matplotlib

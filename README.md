@@ -6,11 +6,13 @@ Therefore, it adds the following python packages:
 
 * numpy
 * scipy
+* scikit-learn
 * numba
 * pandas
 * matplotlib
 * Pillow
 * PyYAML
+
 
 # Docker image
 The latest version of the image is hosted on [Dockerhub](https://hub.docker.com/r/larsklitzke/alpine-mysql-python3.5-scientific). 
