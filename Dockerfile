@@ -18,10 +18,12 @@ RUN pip install --no-cache-dir -U\
 RUN pip install --no-cache-dir -U\
     pandas\
     scipy\
-    scikit-learn
+    cython
+
 
 RUN pip install --no-cache-dir -U\
-    matplotlib
+    matplotlib\
+    scikit-learn
 
 RUN pip install --no-cache-dir -U\
     Pillow
